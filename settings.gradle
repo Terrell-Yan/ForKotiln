@@ -1,0 +1,2 @@
+rootProject.name='ForKotiln'
+include ':app'
