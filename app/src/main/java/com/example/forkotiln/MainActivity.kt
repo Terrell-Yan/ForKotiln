@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
             Toast.makeText(this, "nihao", Toast.LENGTH_LONG).show()
         }
         main()
-      main_for()
+//      main_for()
 
     }
     fun main_for(){
