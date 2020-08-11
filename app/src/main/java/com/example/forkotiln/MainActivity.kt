@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         button_on.setOnClickListener {
             Toast.makeText(this, "nihao", Toast.LENGTH_LONG).show()
         }
-        main()
+//        main()
 //      main_for()
 
     }
